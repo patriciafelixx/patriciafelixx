@@ -1,6 +1,7 @@
-### Hi there 👋
+Hello World!! 👋
 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=patriciafelixx.visitor-badge)](https://github.com/patriciafelixx)
+![](./tech.png)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/patriciafelixx)](https://github.com/patriciafelixx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patriciafelixx/)](https://www.linkedin.com/in/patriciafelixx/)
 
